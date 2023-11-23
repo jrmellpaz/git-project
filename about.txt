@@ -5,8 +5,3 @@ apple
 guava
 kamatis
 
-hello world!!!!
-
-this is master!!!!!!!
-
-this is the branch1
